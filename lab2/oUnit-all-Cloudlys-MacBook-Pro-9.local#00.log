@@ -1,0 +1,201 @@
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Runner: processes
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Chooser: simple
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration suite_name = "all"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration cache_filename = "/Users/cloudly/Desktop/CS4/lab2/oUnit-$(suite_name).cache"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration run_gc_full_major = "true"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration display = "true"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration results_style_1_X = "false"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration testdata_dir = "none"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration health_check_interval = "1."
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration verbose = "false"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration chooser = "simple"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration output_html_dir = "none"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration processes_kill_period = "5."
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration runner = "processes"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration shards = "2"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration processes_grace_period = "5."
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration log_encoding = "utf-8"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration output_junit_file = "none"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration ci = "false"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Configuration output_file = "/Users/cloudly/Desktop/CS4/lab2/oUnit-$(suite_name)-$(shard_id).log"
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Using 2 workers maximum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Starting worker number Cloudlys-MacBook-Pro-9.local#01.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Worker Cloudlys-MacBook-Pro-9.local#01 started.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Starting worker number Cloudlys-MacBook-Pro-9.local#02.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Worker Cloudlys-MacBook-Pro-9.local#02 started.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:1:ifast_expt, all:0:fast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:0:fast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:1:ifast_expt, all:0:fast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Start test all:1:ifast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:1:ifast_expt, all:0:fast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:0:fast_expt is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:1:ifast_expt, all:0:fast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:0:fast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:1:ifast_expt, all:0:fast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:2:fast_mult, all:1:ifast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:2:fast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:2:fast_mult, all:1:ifast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Test all:1:ifast_expt is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:2:fast_mult, all:1:ifast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: End test all:1:ifast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:2:fast_mult, all:1:ifast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:3:ifast_mult, all:2:fast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Start test all:3:ifast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:3:ifast_mult, all:2:fast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:2:fast_mult is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:3:ifast_mult, all:2:fast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:2:fast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:3:ifast_mult, all:2:fast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:4:isum, all:3:ifast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:4:isum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:4:isum, all:3:ifast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Test all:3:ifast_mult is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:4:isum, all:3:ifast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: End test all:3:ifast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:4:isum, all:3:ifast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:5:product_rec, all:4:isum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Start test all:5:product_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:5:product_rec, all:4:isum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:4:isum is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:5:product_rec, all:4:isum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:4:isum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:5:product_rec, all:4:isum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:6:factorial_rec, all:5:product_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:6:factorial_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:6:factorial_rec, all:5:product_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Test all:5:product_rec is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:6:factorial_rec, all:5:product_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: End test all:5:product_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:6:factorial_rec, all:5:product_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:7:product_iter, all:6:factorial_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Start test all:7:product_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:7:product_iter, all:6:factorial_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:6:factorial_rec is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:7:product_iter, all:6:factorial_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:6:factorial_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:7:product_iter, all:6:factorial_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:8:factorial_iter, all:7:product_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Test all:7:product_iter is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:8:factorial_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:8:factorial_iter, all:7:product_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: End test all:7:product_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:8:factorial_iter, all:7:product_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:9:pi_approx, all:8:factorial_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Start test all:9:pi_approx.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:9:pi_approx, all:8:factorial_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:8:factorial_iter is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:9:pi_approx, all:8:factorial_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:8:factorial_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:9:pi_approx, all:8:factorial_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:10:accumulate_rec, all:9:pi_approx.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Test all:9:pi_approx is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:10:accumulate_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:10:accumulate_rec, all:9:pi_approx.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: End test all:9:pi_approx.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:10:accumulate_rec, all:9:pi_approx.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:11:accumulate_iter, all:10:accumulate_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Start test all:11:accumulate_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:11:accumulate_iter, all:10:accumulate_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:10:accumulate_rec is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:11:accumulate_iter, all:10:accumulate_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:10:accumulate_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:11:accumulate_iter, all:10:accumulate_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:12:sum, all:11:accumulate_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Test all:11:accumulate_iter is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:12:sum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:12:sum, all:11:accumulate_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: End test all:11:accumulate_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:12:sum, all:11:accumulate_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:13:product, all:12:sum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Start test all:13:product.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:13:product, all:12:sum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:12:sum is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:13:product, all:12:sum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:12:sum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:13:product, all:12:sum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:14:compose, all:13:product.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:14:compose.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:14:compose, all:13:product.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Test all:13:product is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:14:compose, all:13:product.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: End test all:13:product.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:14:compose, all:13:product.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:15:repeated, all:14:compose.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Start test all:15:repeated.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:15:repeated, all:14:compose.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:14:compose is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:15:repeated, all:14:compose.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:14:compose.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:15:repeated, all:14:compose.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:16:smooth, all:15:repeated.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:16:smooth.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:16:smooth, all:15:repeated.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Test all:15:repeated is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:16:smooth, all:15:repeated.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: End test all:15:repeated.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:16:smooth, all:15:repeated.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:17:nsmoothed, all:16:smooth.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:16:smooth is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:17:nsmoothed, all:16:smooth.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:16:smooth.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:17:nsmoothed, all:16:smooth.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:18:is_prime, all:17:nsmoothed.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:18:is_prime.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:18:is_prime, all:17:nsmoothed.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Start test all:17:nsmoothed.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:18:is_prime, all:17:nsmoothed.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: Test all:17:nsmoothed is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:18:is_prime is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:18:is_prime, all:17:nsmoothed.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#02 I: End test all:17:nsmoothed.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:18:is_prime.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 2 tests running: all:18:is_prime, all:17:nsmoothed.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Still 1 tests running : all:19:smallest_prime_factor.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 1 tests running: all:19:smallest_prime_factor.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:19:smallest_prime_factor.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Still 1 tests running : all:19:smallest_prime_factor.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 1 tests running: all:19:smallest_prime_factor.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:19:smallest_prime_factor is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Still 1 tests running : all:19:smallest_prime_factor.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 1 tests running: all:19:smallest_prime_factor.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:19:smallest_prime_factor.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Still 1 tests running : all:19:smallest_prime_factor.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 1 tests running: all:19:smallest_prime_factor.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: 0 tests running: .
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Worker Cloudlys-MacBook-Pro-9.local#01 has ended.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Worker Cloudlys-MacBook-Pro-9.local#02 died unexpectedly.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Used 2 worker during test execution.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Run 9 tests with shard Cloudlys-MacBook-Pro-9.local#02.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Run 11 tests with shard Cloudlys-MacBook-Pro-9.local#01.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Check health of shard Cloudlys-MacBook-Pro-9.local#02, 6 times.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Check health of shard Cloudlys-MacBook-Pro-9.local#01, 1 times.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: ==============
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Summary:
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:19:smallest_prime_factor is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:18:is_prime is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:17:nsmoothed is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:16:smooth is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:15:repeated is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:14:compose is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:13:product is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:12:sum is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:11:accumulate_iter is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:10:accumulate_rec is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:9:pi_approx is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:8:factorial_iter is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:7:product_iter is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:6:factorial_rec is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:5:product_rec is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:4:isum is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:3:ifast_mult is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:2:fast_mult is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:1:ifast_expt is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Test all:0:fast_expt is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Ran: 20 tests in: 0.12 seconds.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Cases: 20.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Tried: 20.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Errors: 0.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Failures: 0.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Skip: 0.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Todo: 0.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#00 I: Timeout: 0.

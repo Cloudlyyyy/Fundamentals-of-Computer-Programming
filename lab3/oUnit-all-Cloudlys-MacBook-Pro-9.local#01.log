@@ -1,0 +1,21 @@
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:0:last_sublist.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:0:last_sublist is successful.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:0:last_sublist.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:2:square_list.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:2:square_list is successful.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:2:square_list.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:4:count_negative_numbers.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:4:count_negative_numbers is successful.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:4:count_negative_numbers.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:6:prefix_sum.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:6:prefix_sum is successful.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:6:prefix_sum.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:8:deep_reverse_nested.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:8:deep_reverse_nested is successful.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:8:deep_reverse_nested.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:10:insertion_sort.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:10:insertion_sort is successful.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:10:insertion_sort.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:12:map, append, length.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:12:map, append, length is successful.
+2023-03-04T07:41:31+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:12:map, append, length.

@@ -1,0 +1,33 @@
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:0:fast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:0:fast_expt is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:0:fast_expt.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:2:fast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:2:fast_mult is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:2:fast_mult.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:4:isum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:4:isum is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:4:isum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:6:factorial_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:6:factorial_rec is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:6:factorial_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:8:factorial_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:8:factorial_iter is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:8:factorial_iter.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:10:accumulate_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:10:accumulate_rec is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:10:accumulate_rec.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:12:sum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:12:sum is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:12:sum.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:14:compose.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:14:compose is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:14:compose.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:16:smooth.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:16:smooth is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:16:smooth.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:18:is_prime.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:18:is_prime is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:18:is_prime.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Start test all:19:smallest_prime_factor.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: Test all:19:smallest_prime_factor is successful.
+2023-02-23T23:24:20+00:00 Cloudlys-MacBook-Pro-9.local#01 I: End test all:19:smallest_prime_factor.
